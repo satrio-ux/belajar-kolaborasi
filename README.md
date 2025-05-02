@@ -1,8 +1,8 @@
 # belajar-kolaborasi
 **202351202**<br>
 **Gading Satrio**<br>
-*Laki-laki*
+*Laki-laki*<br>
 *19 Tahun*<br>
+Jepara, Jawa Tengah<br>
 Teknik Informatika<br>
-Jepara, Jawa Tengah
-Indonesia
+Universitas Muria Kudus
