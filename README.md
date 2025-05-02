@@ -3,4 +3,5 @@
 **Gading Satrio**<br>
 *Laki-laki*
 *19 Tahun*<br>
+Teknik Informatika<br>
 Jepara, Jawa Tengah
